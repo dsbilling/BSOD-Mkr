@@ -1,0 +1,58 @@
+Changelog for 
+
+BSOD Mkr (Windows XP, Vista & 7)
+
+
+Version 0.5:
+
+    Build 0512
+
+        - Not released to public release
+		- Fixed some minor button bugs
+		- Fixed problem when BSOD Mkr don't quits
+		
+	
+
+Version 0.5:
+
+    Build 0500
+
+        - First non-beta release
+		- Tested on Windows XP, Vista & 7
+		- New screen resolutions, look at the bottom!
+		- Added a "What's my screen resolution?"-button
+		- Moved the "A good tip" to the bottom of the app
+			and called it "A VERY cood tip..."
+		- Change the "Nah" in the "Got higher?"-box and 
+			called it "Don't think so..."
+		- Added a link to an Online changelog for this app
+		- Renamed the about box from "BSOD Mkr - About" to
+			"About - BSOD Mkr", no point of that but i 
+			liked it better that way :P
+		- Removed 'Tray Icon Menu', because it did not work
+		- Re-arranged some buttons, because it was not in 
+			correct order
+		- Added a new tester, Tomas1307. Thanks for testing!
+		 ___________________________________________________
+		|Screen reslolutions added:                         |
+		|  1024x768, 1152x864, 1280x720, 1280x800,          |
+		|  1280x1024, 1400x1050, 1440x900, 1600x1200,       |
+		|  1680x1050, 1920x1200, 2048x1080, 2048x1152,      |
+		|  2048x1536                                        |
+		|___________________________________________________|
+		
+		
+
+Version 0.1b:
+
+    Build 0103b
+
+        - First public release
+		- First stable release
+        - Tested on Windows 7
+		- Beta version
+		- Only the 800x600 resolution works
+
+
+
+(rls = release, app = application, b = beta)
