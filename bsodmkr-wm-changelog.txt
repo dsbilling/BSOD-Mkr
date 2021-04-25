@@ -1,0 +1,37 @@
+Changelog for 
+
+BSOD Mkr - Windows Mobile Version
+
+
+Version 0.2:
+
+    Build 201
+
+        * First public rls!
+        * Added DropDownList instead of buttons
+        * Fixed bug with IExplorer starts atomaticly before app does
+        * Fixed about tab
+        * Added info on first page
+        * Fixed text bug in information tab
+        * Fixed build version
+        * Fixed font bug in information tab
+        * Added link to online change log
+        * New font
+        * New colors
+        * Added a tester to About tab
+
+Version 0.1:
+
+    Build 149
+
+        * Fixed picture for HTC P6800
+
+    Build 148
+
+        * First stable testing rls
+        * Supports Sony Ericsson Xperia X1
+        * Supports HTC P6800
+
+
+
+(rls = release, app = application)
